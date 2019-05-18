@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Reheader": {
+      "commandName": "Project",
+      "commandLineArgs": "\"C:\\Users\\Matt\\GitHub\\Reheader\\Reheader\\bin\\Debug\\netcoreapp2.1\\games\""
+    }
+  }
+}
